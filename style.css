@@ -1,0 +1,36 @@
+h1 {
+
+    color: rgb(39, 168, 215);
+    background-color: rgb(235, 235, 238);
+    font-style: italic;
+}
+
+#o1 {
+    color: aqua;
+    background-color: rgb(8, 46, 82);
+}
+
+
+h2 {
+    color: blueviolet;
+}
+
+
+#ab {
+    color: red;
+    background-color: yellow;
+
+}
+
+#cd {
+    color: black;
+    background-color: green;
+}
+
+a {
+    font-size: large;
+    color: blueviolet;
+    background: yellowgreen;
+}
+
+]
